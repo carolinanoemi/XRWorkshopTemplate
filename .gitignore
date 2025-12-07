@@ -11,7 +11,7 @@ UserSettings/
 *.user
 *.unityproj
 
-# GitHub Copilot stuff
+
 copilot/
 .github/copilot*
 .vscode/copilot*
