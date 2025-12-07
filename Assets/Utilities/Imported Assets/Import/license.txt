@@ -1,0 +1,11 @@
+Model Information:
+* title:	woman crouching
+* source:	https://sketchfab.com/3d-models/woman-crouching-941bb38df17940409b805e2b45e4254d
+* author:	YØD (https://sketchfab.com/YOD3DD)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "woman crouching" (https://sketchfab.com/3d-models/woman-crouching-941bb38df17940409b805e2b45e4254d) by YØD (https://sketchfab.com/YOD3DD) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
